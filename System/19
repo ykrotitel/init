@@ -1,0 +1,1 @@
+sudo systemctl list-units-files --type service | grep enabled 

@@ -1,0 +1,3 @@
+crontab
+
+echo SALLAM | at 22:00

@@ -1,0 +1,2 @@
+
+ipconfig getpacket en0 | grep chaddr | awk '{print $3}'
